@@ -3,8 +3,6 @@
 ---
 
 ## 🔗 Links Úteis Gerais
-
-- [Live da Aula 07](https://youtube.com/live/X3RBzU9pjcl?feature=share)
 - [Playlist Oficial do Curso](https://www.youtube.com/playlist?list=PLW-WdJ6yAl6JMJw2bqlHomiSlxqB06Rbp)
 - [Canal do I2A2](https://www.youtube.com/@i2a2)
 - [Site do Curso](https://sites.google.com/i2a2.academy/agentes-autonomos-com-ia-gen?usp=sharing)
