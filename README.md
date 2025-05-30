@@ -28,7 +28,7 @@
 | Aula 04 | 🚧 | 🚧 | 🚧 |
 | Aula 05 | 🚧 | 🚧 | 🚧 |
 | Aula 06 | 🚧 | 🚧 | 🚧 |
-| **Aula 07** | **Agentes Autônomos: Conceitos, RAG, REACT, Planejamento, Desafio 2** | [Transcrição Aula 07](link_para_transcricao) | [Resumo Técnico Aula 07](link_para_resumo) |
+| **Aula 07** | **Agentes Autônomos: Conceitos, RAG, REACT, Planejamento, Desafio 2** | [Transcrição Aula 07](trancricao_aula_07.txt) | [Resumo Técnico Aula 07](Resumo_Agentes_Autonomos_Aula7.md) |
 
 ---
 
